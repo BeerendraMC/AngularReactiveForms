@@ -1,0 +1,132 @@
+{
+  "employees": [
+    {
+      "id": 1,
+      "fullname": "Ravi",
+      "contactPreference": "phone",
+      "email": "ravi@gmail.com",
+      "phone": "9855566623",
+      "skills": [
+        {
+          "skillName": "C#",
+          "experienceInYears": "1",
+          "proficiency": "beginner"
+        },
+        {
+          "skillName": "Java",
+          "experienceInYears": "1",
+          "proficiency": "beginner"
+        }
+      ]
+    },
+    {
+      "id": 2,
+      "fullname": "Beerendra",
+      "contactPreference": "email",
+      "email": "beerendramc@gmail.com",
+      "phone": "8277788812",
+      "skills": [
+        {
+          "skillName": "C#",
+          "experienceInYears": "1",
+          "proficiency": "beginner"
+        },
+        {
+          "skillName": "Angular 6",
+          "experienceInYears": "1",
+          "proficiency": "intermediate"
+        }
+      ]
+    },
+    {
+      "id": 3,
+      "fullname": "Manju",
+      "contactPreference": "phone",
+      "email": "manju@gmail.com",
+      "phone": "9866554123",
+      "skills": [
+        {
+          "skillName": "Python",
+          "experienceInYears": "1",
+          "proficiency": "beginner"
+        },
+        {
+          "skillName": "PHP",
+          "experienceInYears": "1",
+          "proficiency": "beginner"
+        }
+      ]
+    },
+    {
+      "id": 4,
+      "fullname": "Thanu",
+      "contactPreference": "email",
+      "email": "thanu@gmail.com",
+      "phone": "8945623147",
+      "skills": [
+        {
+          "skillName": "NodeJS",
+          "experienceInYears": "1",
+          "proficiency": "beginner"
+        },
+        {
+          "skillName": "React",
+          "experienceInYears": "1",
+          "proficiency": "beginner"
+        }
+      ]
+    },
+    {
+      "id": 5,
+      "fullname": "Deeksha",
+      "contactPreference": "phone",
+      "email": "deeksha@gmail.com",
+      "phone": "4561326987",
+      "skills": [
+        {
+          "skillName": "C++",
+          "experienceInYears": "1",
+          "proficiency": "beginner"
+        },
+        {
+          "skillName": "Ionic cordova",
+          "experienceInYears": "1",
+          "proficiency": "beginner"
+        }
+      ]
+    },
+    {
+      "id": 6,
+      "fullname": "Prathik",
+      "contactPreference": "email",
+      "email": "prathik@gmail.com",
+      "phone": "7845632145",
+      "skills": [
+        {
+          "skillName": "SQL",
+          "experienceInYears": "1",
+          "proficiency": "beginner"
+        },
+        {
+          "skillName": "MongoDB",
+          "experienceInYears": "1",
+          "proficiency": "beginner"
+        }
+      ]
+    },
+    {
+      "id": 7,
+      "fullname": "Suman",
+      "contactPreference": "phone",
+      "email": "suman@gmail.com",
+      "phone": "8521479632",
+      "skills": [
+        {
+          "skillName": "Vue",
+          "experienceInYears": "1",
+          "proficiency": "beginner"
+        }
+      ]
+    }
+  ]
+}
